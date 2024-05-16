@@ -1,1 +1,1 @@
-# Hospital Managemen tSystem
+# Hospital Management System
